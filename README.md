@@ -73,3 +73,10 @@ A custom bash script runs every 10 minutes (via `cron`) to broadcast system info
 <p align="center">
   <i>Developed with ☕ and ❤️ at School 42.</i>
 </p>
+
+
+---
+
+## License
+
+MIT © [denyskotcode](https://github.com/denyskotcode) — see [LICENSE](LICENSE) for details.
